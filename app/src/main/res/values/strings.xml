@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DashiDashCam</string>
+    <string name="record">Start Recording</string>
 </resources>
