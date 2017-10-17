@@ -1,8 +1,9 @@
-package com.dashi.android.dashidashcam;
+package com.dashi.android.dashidashcam.activities.dashboardscreen;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+
+import com.dashi.android.dashidashcam.R;
 
 public class DashboardActivity extends AppCompatActivity {
 
@@ -13,4 +14,3 @@ public class DashboardActivity extends AppCompatActivity {
     }
 
 }
-

@@ -1,8 +1,9 @@
-package com.dashi.android.dashidashcam;
+package com.dashi.android.dashidashcam.activities.tripscreen;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+
+import com.dashi.android.dashidashcam.R;
 
 public class NavigationActivity extends AppCompatActivity {
 
